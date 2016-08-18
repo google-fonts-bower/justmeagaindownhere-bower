@@ -1,0 +1,17 @@
+{
+    "name": "justmeagaindownhere-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Kimberly Geswein"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/justmeagaindownhere-bower.git"
+    },
+    "description": "Just Me Again Down Here font",
+    "keywords": [
+        "font",
+        "HANDWRITING"
+    ]
+}
